@@ -15,7 +15,7 @@
 			{ start:  6, duration: 4, text: '06:00 - 10:00', blackout: false },
 			{ start: 10, duration: 2, text: '10:00 - 12:00', blackout: true  },
 			{ start: 12, duration: 4, text: '12:00 - 16:00', blackout: false },
-			{ start: 16, duration: 2, text: '16:00 - 20:00', blackout: true  },
+			{ start: 16, duration: 2, text: '16:00 - 18:00', blackout: true  },
 			{ start: 18, duration: 4, text: '18:00 - 22:00', blackout: false },
 			{ start: 22, duration: 2, text: '22:00 - 00:00', blackout: true  },
 		],
